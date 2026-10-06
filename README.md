@@ -1,4 +1,4 @@
-# playground_example
+# OMR_tool_example
 An example tool that reads, creates, updates, and deletes its own data in the RERUM ecosystem.
 
 It manages a single RERUM collection through [TinyNode](https://tinydev.rerum.io).
